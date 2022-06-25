@@ -1,0 +1,5 @@
+<td><?php echo $no++; ?></td> 
+		<td><?php echo $x['nama']; //untuk menampilkan nama 
+?>		</td>
+		<td><?php echo $x['alamat']; ?></td>
+		<td><?php echo $x['usia']; ?></td>
